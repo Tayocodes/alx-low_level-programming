@@ -20,4 +20,5 @@ char *string_toupper(char *word)
 		}
 		length++;
 	}
+	return (word);
 }
